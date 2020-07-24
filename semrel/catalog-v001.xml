@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1568033192882" name="http://acm_hierarchy__all" uri="src/test/resources/semsim/ACM/taxonomy/ACM_dag__all.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1568033192882" name="http://dbpedia.org/ontology/" uri="src/test/resources/clustering/ontology/dbpedia_2014.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1568033192882" name="http://semsim.saks.iasi.cnr.it/CompInd_tourism" uri="src/test/resources/semsim/tourism/taxonomy/CompInd_tourism.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1568033192882" name="http://semsim.saks.iasi.cnr.it/test" uri="src/test/resources/semsim/test/taxonomy/test.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1568033192882" name="shadowed:http://acm_hierarchy__all" uri="target/test-classes/semsim/ACM/taxonomy/ACM_dag__all.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1568033192882" name="shadowed:http://dbpedia.org/ontology/" uri="target/test-classes/clustering/ontology/dbpedia_2014.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1568033192882" name="shadowed:http://semsim.saks.iasi.cnr.it/CompInd_tourism" uri="target/test-classes/semsim/tourism/taxonomy/CompInd_tourism.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1568033192882" name="shadowed:http://semsim.saks.iasi.cnr.it/test" uri="target/test-classes/semsim/test/taxonomy/test.owl"/>
+    </group>
+</catalog>

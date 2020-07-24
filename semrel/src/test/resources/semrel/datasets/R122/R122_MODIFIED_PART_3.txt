@@ -1,0 +1,17 @@
+Banana;Salad;2.25294
+Forestry;Urban_area;2.22500
+Radio_propagation;Radio_wave;2.01176
+Puppetry;Slapstick;2.00000
+Public_domain;Brand;1.99412
+Enclosure;Mental_health;1.91765
+Coronation;Majority_rule;1.88500
+Enzyme;Depression_(physiology);1.87727
+Arbitration;Committee;1.83529
+Lemon;Coriander;1.75455
+Stock;Bull;1.65850
+Vicar;Diocese;1.65714
+Scrap;Chemical_element;1.57000
+Paranoia;Newsroom;1.48235
+Hope;Psychology;1.44286
+Evolution;Publicity;1.35909
+Contestant;Donor;1.30588

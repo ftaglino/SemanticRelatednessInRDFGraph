@@ -1,0 +1,3 @@
+http://dbpedia.org/ontology/wikiPageRedirects
+http://dbpedia.org/ontology/wikiPageDisambiguates
+http://dbpedia.org/ontology/thumbnail

@@ -1,0 +1,1 @@
+0 = [CrossOver:M; Porte_5:H; Alimentazione_Benzina:H; Cilindrata_MEDIUM:M; Grigio:L; PrezzoListino_LOW:H]

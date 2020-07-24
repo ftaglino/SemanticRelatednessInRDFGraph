@@ -1,0 +1,1 @@
+0 = [InternationalHotel:H;FrenchMeal:M;Cinema:M;Flight:L]
