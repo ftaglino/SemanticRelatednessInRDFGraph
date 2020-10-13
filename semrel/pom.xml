@@ -6,7 +6,7 @@
   <name>SemRel</name>
   <properties>
 	<artifact.jar.mainclass>it.cnr.iasi.saks.semrel.main.Main</artifact.jar.mainclass>
-	<junit.version>4.0</junit.version>
+	<junit.version>4.13.1</junit.version>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<maven.compiler>3.6.1</maven.compiler>
 	<maven.compiler.source>1.8</maven.compiler.source>
